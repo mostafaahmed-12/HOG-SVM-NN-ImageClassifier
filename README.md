@@ -1,1 +1,2 @@
 # HOG-SVM-NN-ImageClassifier
+The HOG-SVM-NN Image Classifier is a technique used for image recognition and object detection. To create a model, you collect a dataset and use HOG to extract features from images. These features are fed into the SVM algorithm to train the model. The trained model can classify new images. Testing involves using a separate set of images to evaluate the model's accuracy. The HOG-SVM Image Classifier is a powerful technique for accurately recognizing objects in a wide range of scenarios.
